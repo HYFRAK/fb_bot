@@ -36,10 +36,10 @@ To install requirements, navigate to the folder and use (in terminal/command lin
 >%python3 bot.py --email-- --password-- -h
 ***
 ## Screenshots
-![Login SS]()
-![Comment SS]()
-![Friend Request SS]()
-![Story SS]()
+![Login SS](https://drive.google.com/file/d/1gaskjO9I85lnMiISwdjYOdnqCL2LbOFB/view?usp=drivesdk)
+![Comment SS](https://drive.google.com/file/d/1gVVAZKuGaXq87CisnXMoUmOYwApVihIH/view?usp=drivesdk)
+![Friend Request SS](https://drive.google.com/file/d/1gW0T7tT1Cv-tnnRyJUgHZnrU_pKjnJOm/view?usp=drivesdk)
+![Story SS](https://drive.google.com/file/d/1gbAnVQmdCeDsHyyH7O44z5RIqdSqBflw/view?usp=drivesdk)
 ***
 ## Authors
 Ashish Hegde a.k.a Hyfrak
