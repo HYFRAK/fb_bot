@@ -15,7 +15,7 @@ Chrome or Firefox
 Webdriver Manager 3.3.0
 
 Clone the repo using :
->%git clone ____
+>%git clone https://github.com/HYFRAK/fb_bot.git
 
 To install requirements, navigate to the folder and use (in terminal/command line) :
 >%pip install -r requirements.txt
