@@ -5,7 +5,7 @@ tasks: <br />
 ● Login to a Facebook account given ID and Password. <br />
 ● Add 1 friend from the same location as the location of the ID. <br />
 ● Update account status (text based). <br />
-● Open timeline of a random friend and comment on the most recent post.
+● Open timeline of a random friend and comment on the most recent post(s).
 ***
 ## Getting Started
 ***
